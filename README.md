@@ -13,4 +13,5 @@ pythonのバージョンを上記Readmeを見ながら合わせて実行
 ## modelの追加
 ネットで、*.safetensorsをダウンロードし、stable-diffusion-webui/models/Stable-diffusionに入れるだけ
 
-## 
+## local ネットワークへ公開
+--listenを加えるのみ

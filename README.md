@@ -13,3 +13,4 @@ pythonのバージョンを上記Readmeを見ながら合わせて実行
 ## modelの追加
 ネットで、*.safetensorsをダウンロードし、stable-diffusion-webui/models/Stable-diffusionに入れるだけ
 
+## 

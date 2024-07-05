@@ -15,3 +15,7 @@ pythonのバージョンを上記Readmeを見ながら合わせて実行
 
 ## local ネットワークへ公開
 --listenを加えるのみ
+--enable-insecure-extension-accessを加えるとエクステンションも可能
+
+公開しているとGPU使用が弱い？
+メモリは使用しているが、電源を使っていない・・・

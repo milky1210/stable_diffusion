@@ -163,3 +163,5 @@ cython_debug/
 
 # my_folder
 stable-diffusion-webui/
+dataset-tag-editor-standalone/
+lora_train/
